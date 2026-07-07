@@ -4,7 +4,7 @@
            ;Student4name: ELLY MAZLIN BINTI MOHD AZMIR Student4ID: 252UC241RN
 
            ;TEST   5: Large Test Values
-           ;Expected result at 0x2100 = 0x990000A0
+           ;Expected result at 0x2100 = 0x77000030
 
            mov     r8, #0x2000
 
@@ -50,3 +50,4 @@ SkipUpdate
 
 Stop       
            b       Stop
+

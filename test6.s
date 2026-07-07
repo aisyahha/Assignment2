@@ -3,8 +3,8 @@
            ;Student3name: AMIRA SOFIA BINTI AZIZUL RAHMAN Student3ID: 252UC24216
            ;Student4name: ELLY MAZLIN BINTI MOHD AZMIR Student4ID: 252UC241RN
 
-           ;TEST   6: Invalid/Error Data
-           ;Expected result at 0x2100 = 0x80000000
+           ;TEST   6: All Negative Edge Values
+           ;Expected result at 0x2100 = 0xFFFFFFFF
 
            mov     r8, #0x2000
 
